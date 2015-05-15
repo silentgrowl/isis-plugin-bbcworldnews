@@ -17,3 +17,7 @@ And then execute:
 ## Usage
 
 Trigger a report of the latest news headlines from the BBC by typing ```!bbc``` in chat.
+
+## Links
+
+* [isis-plugin-bbcworldnews on RubyGems](https://rubygems.org/gems/isis-plugin-bbcworldnews)
